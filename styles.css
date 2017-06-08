@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+img{
+  width: 200px;
+  height: auto;
+}
+.lemon{
+text-align: center;
+}
+.sugar{
+  text-align: center;
+}
+.chocolate{
+  text-align: center;
+}
+button{
+  display: block;
+  margin: 0 auto;
+}
